@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Aadhithya Sadagopan Balaji Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://portfolio-iota-livid-22.vercel.app/",
   },
 };
 
@@ -26,20 +26,11 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://www.canva.com/design/DAFy6D18hmM/6ywaOmKsxAJCfaZ5SVPYvw/view?utm_content=DAFy6D18hmM&utm_campaign=designshare&utm_medium=link&utm_source=editor",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/aadhithyasb087/portfolio",
   githubProfile: "https://github.com/aadhithyasb087",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/aadhithyasb087",
@@ -84,8 +75,14 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Creating application backend in Node, Express & Python",
+        "⚡ Building responsive website using MERN Stack",
+        "⚡ Programming Languages: Python, Java, C, JavaScript, Typescript",
+        "⚡  Backend: Node.js, Express.js",
+        "⚡ Frontend: HTML, CSS, Bootstrap, React, Redux Toolkit, React Native, Polymer.js",
+        "⚡ Clouds and Databases: MongoDB, Firebase, AWS(Basics)",
+        "⚡ Web Technologies: Docker, Socket.IO",
+        "⚡ Developer Tools: Postman, VS Code, GitHub, Bitbucket, Jeera",
+        "⚡ Software Testing: Unit Testing (Jest) , E2E Testing (Playwright)",
       ],
       softwareSkills: [
         {
@@ -166,9 +163,8 @@ const skills = {
       title: "Dev Ops",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience setting up CI/CD pipelines using tools like Jenkins",
+        "⚡ Knows basics of setting up CI/CD pipelines using tools like Jenkins",
         "⚡ Proficient in Docker for containerization of applications and services",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
       ],
       softwareSkills: [
         {
@@ -280,6 +276,7 @@ const degrees = {
       duration: "2019-2023",
       descriptions: [],
       website_link: "https://www.rmkec.ac.in/2023/",
+      grade: "CGPA : 9.13/10",
     },
     {
       title: "Jagopal Garodia Matriculaton Higher Secondary School",
@@ -289,6 +286,7 @@ const degrees = {
       duration: "2017-2019",
       descriptions: [],
       website_link: "https://www.jaigopalgarodia.org/jgvvsrp/",
+      grade: "Grade: 83%",
     },
   ],
 };
@@ -506,7 +504,19 @@ const experience = {
     },
     {
       title: "Volunteerships",
-      experiences: [],
+      experiences: [
+        {
+          title: "Project Engineer",
+          company: "RMK Engineering College",
+          company_url: "https://www.rmkec.ac.in/2023/",
+          logo_path: "rmk_college.svg",
+          duration: "2019-2023",
+          location: "Tiruvallur, Tamilnadu",
+          description:
+            "Representative of my Department. Organized & Participated in many Events",
+          color: "#0879bf",
+        },
+      ],
     },
   ],
 };
@@ -515,7 +525,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -575,28 +585,27 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Aadhithya_img.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React and Full-Stack Development",
   },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
-  },
+  // blogSection: {
+  //   title: "Blogs",
+  //   subtitle:
+  //     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+  //   link: "https://blogs.ashutoshhathidara.com/",
+  //   avatar_image_path: "blogs_image.svg",
+  // },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
+    subtitle: "GKM Colony, Chennai-600082, Tamil Nadu, India",
+    locality: "GKM Colony",
     country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    region: "Tamil Nadu",
+    postalCode: "600082",
+    streetAddress: "25th street",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/7GbRi889RUKt8Knm7",
   },
   phoneSection: {
     title: "",

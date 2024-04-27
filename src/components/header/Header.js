@@ -84,7 +84,7 @@ class Header extends Component {
                   Projects
                 </NavLink>
               </li>
-
+              
               <li>
                 <NavLink
                   to="/contact"
