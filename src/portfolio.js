@@ -604,7 +604,7 @@ const contactPageData = {
     region: "Tamil Nadu",
     postalCode: "600082",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/7GbRi889RUKt8Knm7",
+    location_map_link: "https://maps.app.goo.gl/FQJpuBACKz6U9GBv5",
   },
   phoneSection: {
     title: "",
