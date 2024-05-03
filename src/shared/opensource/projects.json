@@ -1,10 +1,36 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQlnb",
+      "name": "Amazon Clone",
+      "createdAt": "2024-04-20",
+      "url": "https://amazon-clone-ecru-seven.vercel.app/",
+      "description": "🔥 The Responsive e-commerce website build using React.js, Redux Toolkit, Firebase & Stripe Payment. The website let you to add fake products to cart & purchase those products after payment",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+         {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Portfolio",
       "createdAt": "2024-04-28",
-      "url": "https://github.com/aadhithyasb087/portfolio",
+      "url": "https://portfolio-iota-livid-22.vercel.app/",
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
       "isFork": false,
       "languages": [
@@ -27,11 +53,11 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQlnb",
-      "name": "Amazon Clone",
-      "createdAt": "2024-04-20",
-      "url": "https://github.com/aadhithyasb087/amazon-clone",
-      "description": "🔥 The Responsive e-commerce website build using React.js, Redux Toolkit, Firebase & Stripe Payment. The website let you to add fake products to cart & purchase those products after payment",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyN1524",
+      "name": "Expense Tracker",
+      "createdAt": "2024-03-20",
+      "url": "https://aadhithyasb087.github.io/expense-tracker/",
+      "description": "🔥  A simple application assists with keeping track of expenses and displaying them in a graph bar.",
       "isFork": false,
       "languages": [
         {

@@ -293,15 +293,117 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    // {
-    //   title: "Machine Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "stanford_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-    //   alt_name: "Stanford University",
-    //   color_code: "#8C151599",
-    // },
+    {
+      title: "The Joy of Computing using Python",
+      subtitle: " - Nptel",
+      logo_path: "nptel.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1nFeRRHWrrMd62i8r3XU6oHbS-mAQh1Na/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+
+    {
+      title: "Python Fundamentals",
+      subtitle: " - Infosys",
+      logo_path: "infosys.png",
+      certificate_link:
+        "https://drive.google.com/file/d/17lC7yMDrdVxp9T4NPsqPHOd-kiuVOiaw/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+
+    {
+      title: "Coursera Create Your First Game with Python",
+      subtitle: " - Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1cl4pZp5CL2yGkBMcsXqq9yBFwIqHJtQk/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Learn and Master C Programming For Absolute Beginners!",
+      subtitle: " - Infosys",
+      logo_path: "infosys.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1pGtEE9hvOLcET97U2ts2XMCUha5GNIx_/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+
+    {
+      title: "Introduction to Javascript The Basics",
+      subtitle: " - Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1N_hapR-kPhzEJcccKghHrpRFDjfd1LGA/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Build Your Portfolio Website with HTML and CSS",
+      subtitle: " - Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1QRxmfcpdoChTEKVjchBRO7P61MWQUazK/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Developing Soft Skills and Personality",
+      subtitle: " - Nptel",
+      logo_path: "nptel.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1Y8wJZ2_V5htQReTTvT6amekU7lmsbEtP/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Design Thinking",
+      subtitle: " - Infosys",
+      logo_path: "infosys.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1E_Kr7IacUg0HpS5qkw9EjheXlKw53Wyt/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Time Management",
+      subtitle: " - Infosys",
+      logo_path: "infosys.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1SJFMAMd32yhFPOicSZwdpIOvbkcU_HDY/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Introduction to Project Management",
+      subtitle: " - Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1a4BN-jC1ddTrsYOu2sNkCfP3fi1cb_Gf/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Email writing",
+      subtitle: " - Infosys",
+      logo_path: "infosys.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1mmWBHf_xeuq4bs-mEbrKFGCNSlrFUnlo/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
+    {
+      title: "Introduction to Google Docs",
+      subtitle: " - Coursera",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1pHz937M4NJZfImbg3pmQ6LivQ9kO-AOb/view?usp=sharing",
+      alt_name: "Stanford University",
+      color_code: "#2a73cc",
+    },
     // {
     //   title: "Deep Learning",
     //   subtitle: "- Andrew Ng",
@@ -404,6 +506,23 @@ const certifications = {
   ],
 };
 
+//Achievements
+const achievements = {
+  achievement: [
+    {
+      title: "Project Engineer",
+      company: "Soliton Technologies",
+      company_url: "https://www.solitontech.com/",
+      logo_path: "soliton.jpeg",
+      duration: "June 2023 - Nov 2023",
+      location: "Coimbatore TamilNadu",
+      description:
+        "Worked on Polymer.js. & Completed a SDLC project (Movie Application). Worked on Agile Methodology : Connected with customer & got the requirements for the project, Done Backlog refinement, Development, Testing & Release. I was part of a team focused on developing a Graphical User Interface (GUI) for Evaluation Module (EVM) with Texas Instruments as the client. Within this role. My team successfully completed a project for an LED driver GUI, utilizing the Polymer.js framework. Using the LED Driver GUI the user can connect & test the hardware with different LED configurations & modes. ",
+      color: "#0879bf",
+    },
+  ],
+};
+
 // Experience Page
 const experience = {
   title: "Experience",
@@ -466,7 +585,7 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Project Engineer",
+          title: "Intern",
           company: "Soliton Technologies",
           company_url: "https://www.solitontech.com/",
           logo_path: "soliton.jpeg",
@@ -474,6 +593,30 @@ const experience = {
           location: "Coimbatore TamilNadu",
           description:
             "Worked on Web Technology during the internship period. Completed SDLC projects like, Weather & Tic-Tac-Toe Application : Front end & Node.js, Shopping cart & Calculator App: React, Chatbot : Messaging platform created using socket.io. Written Unit Test cases using Jest framework & E2E Test cases using Playwright. Deployed the projects using Docker & hosted it using Glitch.",
+          color: "#0879bf",
+        },
+        {
+          title: "NCTPS-Thermal Power Station, In-Plant Training",
+          company: "North Chennai Thermal Power Station - NCTPS",
+          company_url:
+            "https://drive.google.com/file/d/1QLzsqGmCx6cXFjkMx84s12xYbW-M6KXY/view?usp=sharing",
+          logo_path: "internship.png",
+          duration: "28/02/22 - 04/03/22",
+          location: "Chennai, TamilNadu",
+          description:
+            "Completed a one-week n-Plant Training in NCTPS-Thermal Power Station was an invaluable opportunity that provided me with comprehensive insights into the workings of a thermal power station. Throughout the training program, I had the privilege of immersing myself in the intricate processes and operations involved in generating power through thermal means. The experience began with an in-depth orientation, where I gained a solid understanding of the fundamental principles underlying thermal power generation. From there, I delved into various aspects of the power station's functioning, including fuel combustion, steam generation, turbine operation, and electricity generation. One of the highlights of the training was the hands-on experience I gained by shadowing experienced technicians and engineers as they carried out their daily tasks. This practical exposure allowed me to witness firsthand the application of theoretical knowledge in real-world scenarios and familiarized me with the operational challenges and safety protocols inherent in power plant operations.",
+          color: "#0879bf",
+        },
+        {
+          title: "TNEWA - Solar Panel Installation Training Programme",
+          company: "TNEWA Community College",
+          company_url:
+            "https://drive.google.com/file/d/1xdpcLfbUOIVANWjsxgDL9yF30N3MaQkT/view?usp=sharing",
+          logo_path: "internship.png",
+          duration: "2023",
+          location: "Chennai, TamilNadu",
+          description:
+            "Completed Solar Panel Installation Training conducted by TNEWA was an enlightening and practical experience that equipped me with the skills and knowledge necessary to contribute to the renewable energy sector. Throughout the training program, I had the opportunity to delve into various aspects of solar energy technology, with a specific focus on the installation and maintenance of solar panels.The training began with an overview of solar energy and its significance in addressing environmental challenges and energy sustainability. I gained insights into the principles of photovoltaic technology, solar panel components, and the process of converting sunlight into electricity. This foundational knowledge provided me with a solid understanding of the underlying concepts driving solar energy generation.",
           color: "#0879bf",
         },
         //     ,
@@ -506,7 +649,7 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Project Engineer",
+          title: "Representative",
           company: "RMK Engineering College",
           company_url: "https://www.rmkec.ac.in/2023/",
           logo_path: "rmk_college.svg",
@@ -514,6 +657,28 @@ const experience = {
           location: "Tiruvallur, Tamilnadu",
           description:
             "Representative of my Department. Organized & Participated in many Events",
+          color: "#0879bf",
+        },
+        {
+          title: "TISSO Tre Plantation",
+          company: "TISSO-Tirupur Social Service Organisation",
+          company_url: "http://www.tissohome.com/",
+          logo_path: "volunteer_logo.png",
+          duration: "August-2023",
+          location: "Tiruppur, Tamil nadu",
+          description:
+            "Volunteering for the tree plantation organized by TISSO (Tree Initiative for Sustainable Society) at a TISSO Trust school was an enriching experience that allowed me to make a meaningful impact on both the environment and the local community. Interacting with the children present in the school added an extra layer of significance to the event. As we gathered to plant trees, I had the opportunity to engage with the students, sharing knowledge about the importance of trees in our ecosystem and the benefits they provide to the environment and human health.",
+          color: "#0879bf",
+        },
+        {
+          title: "Cycle Rally",
+          company: "Soliton Technologies",
+          company_url: "https://www.solitontech.com/",
+          logo_path: "volunteer_logo.png",
+          duration: "May 2023",
+          location: "Coimbatore TamilNadu",
+          description:
+            "Participating in the cycle rally organized by my company in partnership with a private organization to raise funds for cancer patients was a truly impactful experience that highlighted the power of collective action and community support in addressing important societal issues. As I joined fellow colleagues and members of the community in this inspiring event, I felt a sense of unity and purpose knowing that our efforts were directly contributing to the well-being of cancer patients and their families. Cycling alongside others who shared a common goal of making a positive difference created a powerful sense of camaraderie and solidarity.",
           color: "#0879bf",
         },
       ],
@@ -626,4 +791,5 @@ export {
   publicationsHeader,
   publications,
   contactPageData,
+  achievements,
 };
