@@ -78,6 +78,28 @@
         }
       ]
     },
+     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNz912981a",
+      "name": "Tic-Tac-Toe Game",
+      "createdAt": "2023-04-20",
+      "url": "https://play-tic-tac-toe.glitch.me/index.html",
+      "description": "🔥 Tic-Tac-Toe Game App build using HTML, CSS and Javascript.It has game replay as well. You can play this game with friends or against the computer. It has authentication and also it store and retrive user data. Enjoy your Game :)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0Njcans",
       "name": "Flipkart Grid 3.0 Robotics Challenge",
