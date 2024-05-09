@@ -80,7 +80,7 @@
       "name": "Openai Chat App",
       "createdAt": "2024-05-8",
       "url": "https://aadhithyasb087.github.io/openrouteai-chat-app/",
-      "description": "🔥  A messaging platform built with React.js, Openrouter.ai (using the "gryphe/mythomist-7b:free" paradigm) and Firebase(Database and Authentication) that allows users to chat with OpenAI",
+      "description": "🔥  A messaging platform built with React.js, Openrouter.ai (using the \"gryphe/mythomist-7b:free\" paradigm) and Firebase(Database and Authentication) that allows users to chat with OpenAI",
       "isFork": false,
       "languages": [
         {
