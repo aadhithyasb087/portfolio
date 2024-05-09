@@ -52,7 +52,56 @@
         }
       ]
     },
-    {
+    
+     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNz912981a",
+      "name": "Tic-Tac-Toe Game",
+      "createdAt": "2023-04-20",
+      "url": "https://play-tic-tac-toe.glitch.me/index.html",
+      "description": "🔥 Tic-Tac-Toe Game App build using HTML, CSS and Javascript.It has game replay as well. You can play this game with friends or against the computer. It has authentication and also it store and retrive user data. Enjoy your Game :)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+{
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0Njcbsh6",
+      "name": "Openai Chat App",
+      "createdAt": "2024-05-8",
+      "url": "https://aadhithyasb087.github.io/openrouteai-chat-app/",
+      "description": "🔥  A messaging platform built with React.js, Openrouter.ai (using the "gryphe/mythomist-7b:free" paradigm) and Firebase(Database and Authentication) that allows users to chat with OpenAI",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+         {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+{
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyN1524",
       "name": "Expense Tracker",
       "createdAt": "2024-03-20",
@@ -75,28 +124,6 @@
          {
           "name": "React",
           "iconifyClass": "logos-react"
-        }
-      ]
-    },
-     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNz912981a",
-      "name": "Tic-Tac-Toe Game",
-      "createdAt": "2023-04-20",
-      "url": "https://play-tic-tac-toe.glitch.me/index.html",
-      "description": "🔥 Tic-Tac-Toe Game App build using HTML, CSS and Javascript.It has game replay as well. You can play this game with friends or against the computer. It has authentication and also it store and retrive user data. Enjoy your Game :)",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
         }
       ]
     },
