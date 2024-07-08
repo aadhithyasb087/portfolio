@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://www.canva.com/design/DAFy6D18hmM/6ywaOmKsxAJCfaZ5SVPYvw/view?utm_content=DAFy6D18hmM&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+    "https://drive.google.com/drive/folders/1ZRqhTsy1lYm-U0aekPoMu3hDYBpLUvbr",
   portfolio_repository: "https://github.com/aadhithyasb087/portfolio",
   githubProfile: "https://github.com/aadhithyasb087",
 };
@@ -75,14 +75,15 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website using MERN Stack",
-        "⚡ Programming Languages: Python, Java, C, JavaScript, Typescript",
-        "⚡  Backend: Node.js, Express.js",
-        "⚡ Frontend: HTML, CSS, Bootstrap, React, Redux Toolkit, React Native, Polymer.js",
-        "⚡ Clouds and Databases: MongoDB, Firebase, AWS(Basics)",
-        "⚡ Web Technologies: Docker, Socket.IO",
-        "⚡ Developer Tools: Postman, VS Code, GitHub, Bitbucket, Jeera",
-        "⚡ Software Testing: Unit Testing (Jest) , E2E Testing (Playwright)",
+        "⚡ Building responsive website using MERN Stack.",
+"⚡ Frontend: HTML, CSS, Bootstrap and Tailwind CSS; Framework/ Library: React.js, Redux- Toolkit, Next.js and
+React Native; React Component library: Material UI and Chakra UI.",
+"⚡ Backend: Node.js, Express.js and RESTful Api.",
+"⚡ Programming Languages: JavaScript, Typescript, Python (Intermediate) , C and Java (Basic).",
+"⚡ Clouds and Databases: SQL - MySQL, MongoDB - Mongoose and Firebase.",
+"⚡ Developer Tools: Socket.io, Git, Github, Jira, DevOps, VS Code, Postman and MS Ofiice",
+"⚡ Testing Tools: Unit- Jest, E2E- Playwright.",
+"⚡ Deployment Tools: Git, Vercel, Firebase and Render",
       ],
       softwareSkills: [
         {
@@ -517,7 +518,11 @@ const achievements = {
       duration: "June 2023 - Nov 2023",
       location: "Coimbatore TamilNadu",
       description:
-        "Worked on Polymer.js. & Completed a SDLC project (Movie Application). Worked on Agile Methodology : Connected with customer & got the requirements for the project, Done Backlog refinement, Development, Testing & Release. I was part of a team focused on developing a Graphical User Interface (GUI) for Evaluation Module (EVM) with Texas Instruments as the client. Within this role. My team successfully completed a project for an LED driver GUI, utilizing the Polymer.js framework. Using the LED Driver GUI the user can connect & test the hardware with different LED configurations & modes. ",
+        "• Collaborated on developing a GUI for Evaluation Module (EVM) for Texas Instruments.
+• Successfully built an LED driver GUI using Polymer.js and enabled users to connect and test hardware with various
+LED configurations and modes, resulting in positive customer feedback and increased client satisfaction.
+• Worked with the Agile Methodology, which involved connecting with the customer to gather project requirements,
+refining the backlog, developing, testing, and releasing the product ",
       color: "#0879bf",
     },
   ],
@@ -543,7 +548,11 @@ const experience = {
           duration: "June 2023 - Nov 2023",
           location: "Coimbatore TamilNadu",
           description:
-            "Worked on Polymer.js. & Completed a SDLC project (Movie Application). Worked on Agile Methodology : Connected with customer & got the requirements for the project, Done Backlog refinement, Development, Testing & Release. I was part of a team focused on developing a Graphical User Interface (GUI) for Evaluation Module (EVM) with Texas Instruments as the client. Within this role. My team successfully completed a project for an LED driver GUI, utilizing the Polymer.js framework. Using the LED Driver GUI the user can connect & test the hardware with different LED configurations & modes. ",
+            "• Collaborated on developing a GUI for Evaluation Module (EVM) for Texas Instruments.
+• Successfully built an LED driver GUI using Polymer.js and enabled users to connect and test hardware with various
+LED configurations and modes, resulting in positive customer feedback and increased client satisfaction.
+• Worked with the Agile Methodology, which involved connecting with the customer to gather project requirements,
+refining the backlog, developing, testing, and releasing the product. ",
           color: "#0879bf",
         },
         // {
@@ -592,7 +601,10 @@ const experience = {
           duration: "Jan 2023 - May 2023",
           location: "Coimbatore TamilNadu",
           description:
-            "Worked on Web Technology during the internship period. Completed SDLC projects like, Weather & Tic-Tac-Toe Application : Front end & Node.js, Shopping cart & Calculator App: React, Chatbot : Messaging platform created using socket.io. Written Unit Test cases using Jest framework & E2E Test cases using Playwright. Deployed the projects using Docker & hosted it using Glitch.",
+            "• Developed responsive projects such as Weather Application, Tic-Tac-Toe Game Application, Shopping Cart, Calculator
+App and Chat App using Html, CSS, JavaScript, React.js, Node.js and Socket.io.
+• Implemented Unit Test cases using Jest framework and E2E Test cases using Playwright. Deployed the projects using
+Docker and hosted it using Glitch Website. ",
           color: "#0879bf",
         },
         {
@@ -763,7 +775,7 @@ const contactPageData = {
   // },
   addressSection: {
     title: "Address",
-    subtitle: "Kolathur, Chennai-600082, Tamil Nadu, India",
+    subtitle: "GKM Colony, Kolathur, Chennai-600082, Tamil Nadu, India",
     locality: "Kolathur",
     country: "IN",
     region: "Tamil Nadu",
