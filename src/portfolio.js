@@ -75,9 +75,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website using MERN Stack.",
-"⚡ Frontend: HTML, CSS, Bootstrap and Tailwind CSS; Framework/ Library: React.js, Redux- Toolkit, Next.js and
-React Native; React Component library: Material UI and Chakra UI.",
+"⚡ Building responsive website using MERN Stack.",
+"⚡ Frontend: HTML, CSS, Bootstrap and Tailwind CSS; Framework/ Library: React.js, Redux- Toolkit, Next.js and React Native; React Component library: Material UI and Chakra UI.",
 "⚡ Backend: Node.js, Express.js and RESTful Api.",
 "⚡ Programming Languages: JavaScript, Typescript, Python (Intermediate) , C and Java (Basic).",
 "⚡ Clouds and Databases: SQL - MySQL, MongoDB - Mongoose and Firebase.",
@@ -518,11 +517,7 @@ const achievements = {
       duration: "June 2023 - Nov 2023",
       location: "Coimbatore TamilNadu",
       description:
-        "Collaborated on developing a GUI for Evaluation Module (EVM) for Texas Instruments.
-Successfully built an LED driver GUI using Polymer.js and enabled users to connect and test hardware with various
-LED configurations and modes, resulting in positive customer feedback and increased client satisfaction.
-Worked with the Agile Methodology, which involved connecting with the customer to gather project requirements,
-refining the backlog, developing, testing, and releasing the product. ",
+        "Collaborated on developing a GUI for Evaluation Module (EVM) for Texas Instruments. Successfully built an LED driver GUI using Polymer.js and enabled users to connect and test hardware with various LED configurations and modes, resulting in positive customer feedback and increased client satisfaction.Worked with the Agile Methodology, which involved connecting with the customer to gather project requirements,refining the backlog, developing, testing, and releasing the product. ",
       color: "#0879bf",
     },
   ],
@@ -548,11 +543,7 @@ const experience = {
           duration: "June 2023 - Nov 2023",
           location: "Coimbatore TamilNadu",
           description:
-            "Collaborated on developing a GUI for Evaluation Module (EVM) for Texas Instruments.
-Successfully built an LED driver GUI using Polymer.js and enabled users to connect and test hardware with various
-LED configurations and modes, resulting in positive customer feedback and increased client satisfaction.
-Worked with the Agile Methodology, which involved connecting with the customer to gather project requirements,
-refining the backlog, developing, testing, and releasing the product.",
+            "Collaborated on developing a GUI for Evaluation Module (EVM) for Texas Instruments.Successfully built an LED driver GUI using Polymer.js and enabled users to connect and test hardware with various LED configurations and modes, resulting in positive customer feedback and increased client satisfaction. Worked with the Agile Methodology, which involved connecting with the customer to gather project requirements, refining the backlog, developing, testing, and releasing the product.",
           color: "#0879bf",
         },
         // {
@@ -601,9 +592,7 @@ refining the backlog, developing, testing, and releasing the product.",
           duration: "Jan 2023 - May 2023",
           location: "Coimbatore TamilNadu",
           description:
-            "Developed responsive projects such as Weather Application, Tic-Tac-Toe Game Application, Shopping Cart, Calculator
-App and Chat App using Html, CSS, JavaScript, React.js, Node.js and Socket.io.
-Implemented Unit Test cases using Jest framework and E2E Test cases using Playwright. Deployed the projects using Docker and hosted it using Glitch Website.",
+            "Developed responsive projects such as Weather Application, Tic-Tac-Toe Game Application, Shopping Cart, Calculator App and Chat App using Html, CSS, JavaScript, React.js, Node.js and Socket.io. Implemented Unit Test cases using Jest framework and E2E Test cases using Playwright. Deployed the projects using Docker and hosted it using Glitch Website.",
           color: "#0879bf",
         },
         {
