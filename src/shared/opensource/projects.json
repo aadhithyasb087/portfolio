@@ -5,7 +5,33 @@
       "name": "Amazon Clone",
       "createdAt": "2024-04-20",
       "url": "https://amazon-clone-ecru-seven.vercel.app/",
-      "description": "🔥 The Responsive e-commerce website build using React.js, Redux Toolkit, Firebase & Stripe Payment. The website let you to add fake products to cart & purchase those products after payment",
+      "description": "🔥 Developed a responsive e-commerce website using React.js, Redux-Toolkit , Firebase and Stripe Payment. Key features: Product listings, Shopping cart, User authentication and Secure payment gateway.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+         {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQlnndjas871",
+      "name": "Chat App",
+      "createdAt": "2024-05-23",
+      "url": "https://mern-chat-app-jumc.onrender.com/",
+      "description": "🔥 Implemented a Full-Stack Chatting App build using React.js, Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.",
       "isFork": false,
       "languages": [
         {
@@ -58,7 +84,7 @@
       "name": "Tic-Tac-Toe Game",
       "createdAt": "2023-04-20",
       "url": "https://play-tic-tac-toe.glitch.me/index.html",
-      "description": "🔥 Tic-Tac-Toe Game App build using HTML, CSS and Javascript.It has game replay as well. You can play this game with friends or against the computer. It has authentication and also it store and retrive user data. Enjoy your Game :)",
+      "description": "🔥 Tic-Tac-Toe Game App build using HTML, CSS and JavaScript. It includes gameplay against computer and human as opponents. Incorporated a comprehensive game history and replay functionality for enhanced user experience. Enjoy your Game :)",
       "isFork": false,
       "languages": [
         {
